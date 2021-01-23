@@ -1,0 +1,13 @@
+{
+    "zenith": {
+        "username": "",
+        "password": ""
+    },
+    "mailer": {
+        "username": "",
+        "password": "",
+        "server": "",
+        "from": "Name <mail@example.com>",
+        "to": "Name <mail@example.com>"
+    }
+}
